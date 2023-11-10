@@ -41,4 +41,4 @@ African Buffalo optimization were all implemented to test
 and see the results and which optimization technique yielded
 the best results in terms of cost function which means
 min(distance,time). Also, 3 other performnace metrics were
-applied to test and see the effect of each optimization technique on our problem.
+applied to test and see the effect of each optimization technique on our problem.
